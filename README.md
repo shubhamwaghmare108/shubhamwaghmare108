@@ -104,18 +104,6 @@ Passionate about building real-world data solutions using Python, SQL, Power BI,
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamwaghmare108&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamwaghmare108&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 # 🏆 Achievements & Goals
 
 * ✅ Building production-style ETL pipelines

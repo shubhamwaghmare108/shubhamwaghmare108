@@ -107,9 +107,9 @@ Passionate about building real-world data solutions using Python, SQL, Power BI,
 # 📈 GitHub Stats
 
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamwaghmare108&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamwaghmare108&layout=compact&theme=tokyonight)
 ```
 
 ---

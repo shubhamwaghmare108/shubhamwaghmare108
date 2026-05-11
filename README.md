@@ -119,7 +119,7 @@ Passionate about building real-world data solutions using Python, SQL, Power BI,
 
 ## 📧 Email
 
-* [your-email@example.com](mailto:shubham.c.waghmare@gmail.com)
+* [shubham.c.waghmare@gmail.com](mailto:shubham.c.waghmare@gmail.com)
 
 ## 💼 LinkedIn
 

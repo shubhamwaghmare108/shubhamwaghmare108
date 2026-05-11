@@ -123,7 +123,7 @@ Passionate about building real-world data solutions using Python, SQL, Power BI,
 
 ## 💼 LinkedIn
 
-* [https://linkedin.com/in/your-profile](www.linkedin.com/in/shubham-waghamare)
+* ([http//linkedin.com/in/shubham-waghamare](https://www.linkedin.com/in/shubham-waghamare/))
 
 
 ---

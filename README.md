@@ -119,11 +119,11 @@ Passionate about building real-world data solutions using Python, SQL, Power BI,
 
 ## 📧 Email
 
-* [shubham.c.waghmare@gmail.com](mailto:shubham.c.waghmare@gmail.com)
+* [Email](mailto:shubham.c.waghmare@gmail.com)
 
 ## 💼 LinkedIn
 
-* ([http//linkedin.com/in/shubham-waghamare](https://www.linkedin.com/in/shubham-waghamare/))
+* [LinkedIn](https://www.linkedin.com/in/shubham-waghamare/))
 
 
 ---
